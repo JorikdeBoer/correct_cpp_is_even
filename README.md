@@ -2,7 +2,7 @@
 
 Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_is_even.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_is_even)|[![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_is_even/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_is_even/branch/master)
+master|[![Build Status](https://travis-ci.org/JorikdeBoer/correct_cpp_is_even.svg?branch=master)](https://travis-ci.org/JorikdeBoer/correct_cpp_is_even)|[![codecov.io](https://codecov.io/github/JorikdeBoer/correct_cpp_is_even/coverage.svg?branch=master)](https://codecov.io/github/JorikdeBoer/correct_cpp_is_even/branch/master)
 
 [Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'is even'.
 
@@ -13,7 +13,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_is_ev
 ## Prerequisites
 
  * Understand [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
- * Have written [a correct 'is_odd' program](https://github.com/richelbilderbeek/correct_cpp_is_odd)
+ * Have written [a correct 'is_odd' program](https://github.com/JorikdeBoer/correct_cpp_is_odd)
 
 ## Exercise
 
