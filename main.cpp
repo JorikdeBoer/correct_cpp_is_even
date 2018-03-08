@@ -39,14 +39,12 @@ int do_main(const std::vector<std::string>& args)
     if(is_even_number)
     {
        std::cout << "true\n";
-       return 0;
     }
 
-    /// Check uf input is uneven
+    /// Check if input is uneven
     if(!is_even_number)
     {
        std::cout << "false\n";
-       return 0;
     }
     return 0;
 }
