@@ -6,7 +6,7 @@
 /// function to check if number is uneven
 bool is_even(const std::string& str)
 {
-  return std::regex_match(str, std::regex("-?[[:digit:]]?(0|2|4|6|8)"));
+  return std::regex_match(str, std::regex("-?[[:digit:]]*(0|2|4|6|8)"));
 }
 
 /// function to check if input is number
